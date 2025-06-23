@@ -33,4 +33,4 @@ cd frontend
 npm start
 ```
 # Live Preview
-Check live preview here : https://mern-project-fullstack-d94a.vercel.app/
+Check live preview here : NOT DEPLOYED YET! (CURRRENTLY UNAVAILABLE)
